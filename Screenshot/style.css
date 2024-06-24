@@ -1,0 +1,55 @@
+* {
+	background: transparent;
+}
+
+.pop_up {
+	background: #58C2DB;
+	border: 2px solid black;
+	border-radius: 8px;
+	padding: 6px;
+}
+
+.file_input {
+	all: unset;
+	background: #E1E2DA;
+	color: #6D945C;
+	font-size: 12px;
+	min-height: 24px;
+	min-width: 160px;
+	border-radius: 8px;
+}
+
+.screen_cap {
+	background: #58C2DB;
+}
+
+.media_choice {
+	background: #58C2DB;
+}
+
+.media_btn {
+	all: unset;
+	min-width: 72px;
+	min-height: 48px;
+	border-radius: 8px;
+	border: 2px solid #E1E2DA;
+	font-size: 40px;
+}
+
+.button_active,
+.button_inactive {
+	all: unset;
+	min-width: 48px;
+	min-height: 32px;
+	font-size: 28px;
+	border: 4px;
+	border-radius: 8px;
+}
+
+.button_active {
+	background: #E1E2DA;
+}
+
+.button_inactive {
+	background: #648C9C;
+}
