@@ -36,20 +36,17 @@
 	font-size: 40px;
 }
 
-.button_active,
-.button_inactive {
+.button {
 	all: unset;
 	min-width: 48px;
 	min-height: 32px;
 	font-size: 28px;
 	border: 4px;
 	border-radius: 8px;
+	background: #648C9C;
 }
 
 .button_active {
+	background: unset;
 	background: #E1E2DA;
-}
-
-.button_inactive {
-	background: #648C9C;
 }
